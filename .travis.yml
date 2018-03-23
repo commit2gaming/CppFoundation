@@ -86,6 +86,6 @@ install: true
 
 script:
   - |
-    cd C++
+    cd Cpp
     make
     make test
